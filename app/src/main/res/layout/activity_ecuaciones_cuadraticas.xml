@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2"
+    android:orientation="vertical"
+    tools:context=".EcuacionesCuadraticas">
+
+    <Button
+        android:id="@+id/bvolverc"
+        android:layout_width="47dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_baseline_arrow_circle_left_24" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="369dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="29dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/txtCuadratica"
+        android:textAlignment="textStart"
+        android:textColor="@color/purple_200"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bresolverlc"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:backgroundTint="@color/teal_700"
+        android:text="@string/txtResolver" />
+
+</LinearLayout>

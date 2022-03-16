@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MathApp">
         <activity
+            android:name=".EcuacionesCuadraticas"
+            android:exported="false" />
+        <activity
+            android:name=".EcuacionesLineales"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
