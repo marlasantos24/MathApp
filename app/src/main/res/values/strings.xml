@@ -5,4 +5,9 @@
     <string name="txtLineal">Ecuaciones Lineales</string>
     <string name="txtCuadratica">Ecuaciones Cuadraticas</string>
     <string name="txtResolver">Resolver Ecuacion</string>
+    <string name="txtBienvenida">Bienvenido a</string>
+    <string name="txtBienvenida2">BIENVENIDO A</string>
+    <string name="txtTipoEcuacion">Selecciona el tipo de ecuación que deseas resolver.</string>
+    <string name="txtLimpiar">Limpiar</string>
+    <string name="txtResultado2">El resultado es:</string>
 </resources>
